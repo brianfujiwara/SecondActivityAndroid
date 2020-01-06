@@ -1,4 +1,4 @@
-//brian obmalay
+
 
 package com.christopherhield.basicsecondactivity;
 
